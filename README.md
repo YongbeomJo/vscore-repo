@@ -1,3 +1,3 @@
 # vscore-repo
 
-TEST
+TEST : Hello, World!
