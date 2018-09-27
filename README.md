@@ -1,3 +1,4 @@
 # vscore-repo
 
-TEST : Hello, World!
+Sync With Visual Studio Code.
+Use MinGW G++ Compiler.
